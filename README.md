@@ -1,4 +1,6 @@
-SimplicITA
+Pebble Watchfaces
 ==========
 
-Italian version of Simplicity for Pebble Smartwatch
+Collection of watchfaces for the Pebble smartwatch.
+
+Follow our blog for other interesting topics http://www.vivido.it/blogzine/
